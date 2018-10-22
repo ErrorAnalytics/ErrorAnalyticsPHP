@@ -1,0 +1,19 @@
+{
+    "name": "erroranalytics/erroranalytics",
+    "description": "Error analytics composer plugin/library to register the error handler without fuss",
+    "type": "library",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Error Analytics",
+            "email": "contact@erroranalytics.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ErrorAnalytics\\": "src"
+        }
+    }
+}
