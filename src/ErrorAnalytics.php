@@ -3,8 +3,7 @@ namespace ErrorAnalytics;
 
 class ErrorAnalytics
 {
-    // private static $analyticsUrl = 'https://erroranalytics.com/api/v1/error';
-    private static $analyticsUrl = 'http://dev.erroranalytics.com/api/v1/error';
+    private static $analyticsUrl = 'https://erroranalytics.com/api/v1/error';
 
     private $integrationKey;
     private $callbackFunction;
