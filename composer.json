@@ -1,14 +1,21 @@
 {
     "name": "erroranalytics/erroranalytics",
     "description": "Error analytics composer plugin/library to register the error handler without fuss",
+    "homepage": "https://erroranalytics.com",
+    "time": "2018-10-22 09:55:00",
     "type": "library",
     "version": "1.0.0",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Error Analytics",
-            "email": "contact@erroranalytics.com"
+            "email": "contact@erroranalytics.com",
+            "role": "Master of the universe"
         }
     ],
+    "support": {
+        "email":"support@erroranalytics.com"
+    },
     "minimum-stability": "stable",
     "require": {},
     "autoload": {
